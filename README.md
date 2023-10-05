@@ -83,5 +83,5 @@ For their open-source contributions, FSDS course, and for sharing their knowledg
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Happy classifying with deep learning! 🚀🤖 #DeepLearning #Classification #MachineLearning #OpenSource #GitHub #DataScience
+
 
